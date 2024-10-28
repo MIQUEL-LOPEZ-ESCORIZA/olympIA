@@ -1,0 +1,531 @@
+minute,period,timestamp,team,posX,posY,description,actor,A,B
+,,39848,,,,inicio partido,,,
+,,39848,,,,inicio partido,,,
+,,39848,,,,inicio partido,,,
+,,39848,,,,inicio partido,,,
+,,39848,,,,inicio periodo,,,
+9.0,1.0,40174,B,4491.0,6445.0,intento fallado de 3,26.0,0.0,0.0
+,,40243,,,,cambio atacante,,,
+,,40490,,,,clock_off,,,
+,,40953,,,,clock_on,,,
+9.0,1.0,41967,B,2358.0,135.0,intento fallado de 2,25.0,0.0,0.0
+,,42144,,,,cambio atacante,,,
+,,42324,,,,clock_off,,,
+,,42819,,,,clock_on,,,
+8.0,1.0,43910,B,4828.0,-651.0,intento fallado de 2,26.0,0.0,0.0
+,,44004,,,,cambio atacante,,,
+,,44737,,,,cambio atacante,,,
+8.0,1.0,45056,B,135.0,1976.0,intento fallado de 2,32.0,0.0,0.0
+,,45167,,,,cambio atacante,,,
+8.0,1.0,45587,A,898.0,2335.0,intento fallado de 2,11.0,0.0,0.0
+,,45637,,,,clock_off,,,
+,,39887,,,,cambio atacante,,,
+,,46544,,,,clock_on,,,
+8.0,1.0,47199,B,5097.0,-157.0,intento fallado de 2,32.0,0.0,0.0
+,,47337,,,,cambio atacante,,,
+7.0,1.0,47996,A,3368.0,-6714.0,intento fallado de 3,7.0,0.0,0.0
+,,48149,,,,cambio atacante,,,
+,,48748,,,,clock_off,,,
+,,49355,,,,clock_on,,,
+,,49667,,,,clock_off,,,
+,,50276,,,,clock_on,,,
+,,51643,,,,cambio atacante,,,
+6.0,1.0,51832,A,5322.0,6130.0,intento fallado de 3,0.0,0.0,0.0
+,,52020,,,,cambio atacante,,,
+6.0,1.0,52281,B,247.0,7163.0,canasta de 3,31.0,0.0,3.0
+,,52485,,,,cambio atacante,,,
+6.0,1.0,52879,A,3682.0,-6894.0,intento fallado de 3,7.0,0.0,3.0
+,,53119,,,,cambio atacante,,,
+6.0,1.0,53277,A,,,personal,7.0,0.0,3.0
+,,54313,,,,reinicio despues de falta,,,
+6.0,1.0,54523,B,4019.0,-6130.0,intento fallado de 3,26.0,0.0,3.0
+,,54641,,,,cambio atacante,,,
+,,54883,,,,cambio atacante,,,
+6.0,1.0,55071,B,,,mate,26.0,0.0,3.0
+,,55217,,,,cambio atacante,,,
+5.0,1.0,55719,A,3772.0,6647.0,intento fallado de 3,7.0,0.0,3.0
+5.0,1.0,56117,A,,,personal,11.0,0.0,3.0
+5.0,1.0,56366,A,,,entra a pista,2.0,0.0,3.0
+5.0,1.0,56366,A,,,entra a pista,4.0,0.0,3.0
+5.0,1.0,56366,A,,,sale a banquillo,7.0,0.0,3.0
+5.0,1.0,56366,A,,,sale a banquillo,5.0,0.0,3.0
+,,56960,,,,reinicio despues de falta,,,
+,,57412,,,,cambio atacante,,,
+5.0,1.0,57961,A,966.0,1931.0,intento fallado de 2,1.0,0.0,3.0
+,,58156,,,,cambio atacante,,,
+5.0,1.0,58374,B,404.0,-1684.0,canasta de 2,32.0,0.0,5.0
+,,58556,,,,cambio atacante,,,
+5.0,1.0,59432,A,5030.0,314.0,canasta de 2,0.0,2.0,5.0
+,,59533,,,,cambio atacante,,,
+4.0,1.0,60229,A,,,personal,2.0,2.0,5.0
+,,60797,,,,reinicio despues de falta,,,
+4.0,1.0,61061,B,4670.0,472.0,canasta de 2,33.0,2.0,7.0
+,,61257,,,,cambio atacante,,,
+4.0,1.0,61941,A,1437.0,-1707.0,intento fallado de 2,1.0,2.0,7.0
+,,61991,,,,clock_off,,,
+,,62640,,,,clock_on,,,
+,,62869,,,,clock_off,,,
+,,63622,,,,cambio atacante,,,
+,,63735,,,,clock_on,,,
+,,64130,,,,clock_off,,,
+,,64786,,,,clock_on,,,
+,,66228,,,,cambio atacante,,,
+4.0,1.0,66894,B,4423.0,-6018.0,intento fallado de 3,33.0,2.0,7.0
+,,67005,,,,cambio atacante,,,
+4.0,1.0,67143,B,,,personal,25.0,2.0,7.0
+,,68504,,,,reinicio despues de falta,,,
+3.0,1.0,68638,A,3772.0,-3705.0,intento fallado de 2,4.0,2.0,7.0
+3.0,1.0,68738,A,516.0,2582.0,intento fallado de 2,0.0,2.0,7.0
+3.0,1.0,69086,A,5097.0,6153.0,intento fallado de 3,2.0,2.0,7.0
+3.0,1.0,69286,A,,,personal 2tl,0.0,2.0,7.0
+3.0,1.0,70133,B,,,entra a pista,27.0,2.0,7.0
+3.0,1.0,70133,B,,,sale a banquillo,25.0,2.0,7.0
+3.0,1.0,70133,B,,,sale a banquillo,31.0,2.0,7.0
+3.0,1.0,70133,A,,,sale a banquillo,1.0,2.0,7.0
+3.0,1.0,70133,A,,,entra a pista,3.0,2.0,7.0
+3.0,1.0,70133,B,,,entra a pista,24.0,2.0,7.0
+3.0,1.0,70980,B,,,intento fallado de tiro libre,32.0,2.0,7.0
+3.0,1.0,70980,B,,,canasta de 1,32.0,2.0,8.0
+,,72306,,,,reinicio despues de falta,,,
+2.0,1.0,73022,A,3795.0,6692.0,intento fallado de 3,3.0,2.0,8.0
+2.0,1.0,73570,B,,,personal 2tl,33.0,2.0,8.0
+2.0,1.0,74069,A,,,canasta de 1,11.0,3.0,8.0
+2.0,1.0,74069,A,,,canasta de 1,11.0,4.0,8.0
+,,75389,,,,reinicio despues de falta,,,
+2.0,1.0,76090,B,,-1684.0,canasta de 2,33.0,4.0,10.0
+,,76313,,,,cambio atacante,,,
+2.0,1.0,77468,A,2200.0,-988.0,intento fallado de 2,2.0,4.0,10.0
+,,77492,,,,cambio atacante,,,
+2.0,1.0,77767,B,2021.0,135.0,intento fallado de 2,24.0,4.0,10.0
+1.0,1.0,78215,B,,,personal,24.0,4.0,10.0
+,,78762,,,,reinicio despues de falta,,,
+1.0,1.0,79363,A,4872.0,112.0,canasta de 2,4.0,6.0,10.0
+,,79669,,,,cambio atacante,,,
+1.0,1.0,80242,B,4266.0,6534.0,intento fallado de 3,33.0,6.0,10.0
+,,80521,,,,cambio atacante,,,
+1.0,1.0,81317,A,8106.0,629.0,canasta de 3,4.0,9.0,10.0
+,,81583,,,,cambio atacante,,,
+,,82086,,,,cambio atacante,,,
+0.0,1.0,82119,A,1617.0,1976.0,intento fallado de 2,2.0,9.0,10.0
+,,82329,,,,cambio atacante,,,
+0.0,1.0,82468,B,404.0,-1100.0,canasta de 2,33.0,9.0,12.0
+,,82699,,,,cambio atacante,,,
+,,82829,,,,clock_off,,,
+0.0,1.0,83464,B,,,sale a banquillo,33.0,9.0,12.0
+0.0,1.0,83464,B,,,sale a banquillo,32.0,9.0,12.0
+0.0,1.0,83464,B,,,entra a pista,30.0,9.0,12.0
+0.0,1.0,83464,B,,,entra a pista,23.0,9.0,12.0
+,,83780,,,,clock_on,,,
+,,83872,,,,clock_off,,,
+,,84329,,,,clock_on,,,
+0.0,1.0,84610,A,3840.0,6894.0,intento fallado de 3,4.0,9.0,12.0
+,,84723,,,,cambio atacante,,,
+,,84882,,,,clock_off,,,
+,,85413,,,,clock_on,,,
+0.0,1.0,85457,B,741.0,2493.0,intento fallado de 2,24.0,9.0,12.0
+,,85614,,,,fin periodo,,,
+4.0,1.0,86753,A,,,falta en ataque,4.0,9.0,12.0
+10.0,2.0,89692,A,,,sale a banquillo,0.0,9.0,12.0
+10.0,2.0,89692,A,,,entra a pista,8.0,9.0,12.0
+,,91285,,,,inicio periodo,,,
+9.0,2.0,92383,B,2964.0,247.0,intento fallado de 2,27.0,9.0,12.0
+,,92587,,,,cambio atacante,,,
+9.0,2.0,92934,A,7567.0,2223.0,canasta de 3,11.0,12.0,12.0
+,,93182,,,,cambio atacante,,,
+9.0,2.0,93463,A,,,personal,3.0,12.0,12.0
+,,94363,,,,reinicio despues de falta,,,
+9.0,2.0,94553,B,1751.0,-988.0,canasta de 2,30.0,12.0,14.0
+,,94782,,,,cambio atacante,,,
+8.0,2.0,95391,A,1235.0,-1707.0,canasta de 2,8.0,14.0,14.0
+,,95605,,,,cambio atacante,,,
+8.0,2.0,96102,A,,,personal 2tl,2.0,14.0,14.0
+8.0,2.0,96600,A,,,entra a pista,1.0,14.0,14.0
+8.0,2.0,96600,A,,,sale a banquillo,2.0,14.0,14.0
+8.0,2.0,97098,B,,,intento fallado de tiro libre,27.0,14.0,14.0
+8.0,2.0,97098,B,,,canasta de 1,27.0,14.0,15.0
+,,98344,,,,reinicio despues de falta,,,
+,,99010,,,,clock_off,,,
+8.0,2.0,99241,B,,,sale a banquillo,26.0,14.0,15.0
+8.0,2.0,99241,B,,,entra a pista,28.0,14.0,15.0
+,,100521,,,,clock_on,,,
+8.0,2.0,100885,A,719.0,3368.0,intento fallado de 2,4.0,14.0,15.0
+,,101062,,,,cambio atacante,,,
+8.0,2.0,101648,B,1370.0,-1370.0,canasta de 2,24.0,14.0,17.0
+,,101859,,,,cambio atacante,,,
+7.0,2.0,102950,A,6242.0,-5861.0,canasta de 3,4.0,17.0,17.0
+,,103245,,,,cambio atacante,,,
+7.0,2.0,104169,B,3233.0,-6737.0,intento fallado de 3,27.0,17.0,17.0
+7.0,2.0,104717,B,,,personal,23.0,17.0,17.0
+7.0,2.0,104916,A,,,entra a pista,6.0,17.0,17.0
+7.0,2.0,104916,A,,,entra a pista,10.0,17.0,17.0
+7.0,2.0,104916,A,,,sale a banquillo,11.0,17.0,17.0
+7.0,2.0,104916,B,,,sale a banquillo,30.0,17.0,17.0
+7.0,2.0,104916,B,,,entra a pista,32.0,17.0,17.0
+7.0,2.0,104916,A,,,sale a banquillo,3.0,17.0,17.0
+,,105666,,,,reinicio despues de falta,,,
+6.0,2.0,106112,A,4536.0,-6153.0,intento fallado de 3,1.0,17.0,17.0
+,,106330,,,,cambio atacante,,,
+,,106610,,,,clock_off,,,
+,,107217,,,,cambio atacante,,,
+,,107219,,,,clock_on,,,
+6.0,2.0,108005,A,2133.0,-651.0,intento fallado de 2,1.0,17.0,17.0
+,,108006,,,,clock_off,,,
+,,108552,,,,clock_on,,,
+6.0,2.0,109182,B,359.0,1976.0,canasta de 2,28.0,17.0,19.0
+,,109367,,,,cambio atacante,,,
+5.0,2.0,109989,A,674.0,1707.0,intento fallado de 2,6.0,17.0,19.0
+,,110195,,,,cambio atacante,,,
+5.0,2.0,110288,B,629.0,-1819.0,intento fallado de 2,28.0,17.0,19.0
+,,110397,,,,clock_off,,,
+5.0,2.0,110737,A,,,entra a pista,0.0,17.0,19.0
+5.0,2.0,110737,A,,,sale a banquillo,8.0,17.0,19.0
+,,111411,,,,clock_on,,,
+5.0,2.0,112244,B,3323.0,-898.0,canasta de 2,27.0,17.0,21.0
+,,112454,,,,cambio atacante,,,
+5.0,2.0,112759,A,1460.0,-1999.0,intento fallado de 2,1.0,17.0,21.0
+5.0,2.0,112908,A,,,personal,1.0,17.0,21.0
+,,113839,,,,reinicio despues de falta,,,
+4.0,2.0,114851,B,966.0,-3817.0,intento fallado de 2,24.0,17.0,21.0
+,,114966,,,,clock_off,,,
+4.0,2.0,115598,A,,,entra a pista,11.0,17.0,21.0
+4.0,2.0,115598,A,,,sale a banquillo,10.0,17.0,21.0
+,,116145,,,,clock_on,,,
+4.0,2.0,116595,B,5254.0,-112.0,intento fallado de 2,27.0,17.0,21.0
+,,116802,,,,cambio atacante,,,
+4.0,2.0,117032,A,2470.0,-6961.0,canasta de 3,0.0,20.0,21.0
+,,117358,,,,cambio atacante,,,
+,,117568,,,,clock_off,,,
+,,118188,,,,clock_on,,,
+3.0,2.0,118894,A,4176.0,-6692.0,canasta de 3,1.0,23.0,21.0
+4.0,2.0,119143,B,,,tiempo muerto,,23.0,21.0
+4.0,2.0,120239,B,,,sale a banquillo,27.0,23.0,21.0
+4.0,2.0,120239,B,,,sale a banquillo,24.0,23.0,21.0
+4.0,2.0,120239,B,,,entra a pista,25.0,23.0,21.0
+4.0,2.0,120239,B,,,entra a pista,26.0,23.0,21.0
+,,124229,,,,reinicio despues de timeout,,,
+,,124641,,,,cambio atacante,,,
+3.0,2.0,124823,B,1527.0,-7096.0,canasta de 3,28.0,23.0,24.0
+,,125104,,,,cambio atacante,,,
+3.0,2.0,125617,A,3009.0,6602.0,canasta de 3,6.0,26.0,24.0
+,,125894,,,,cambio atacante,,,
+3.0,2.0,125923,A,,,personal,6.0,26.0,24.0
+,,126890,,,,reinicio despues de falta,,,
+3.0,2.0,126969,A,,,mate,11.0,26.0,24.0
+,,127049,,,,cambio atacante,,,
+,,127497,,,,cambio atacante,,,
+2.0,2.0,128065,B,2829.0,6714.0,canasta de 3,28.0,26.0,27.0
+,,128477,,,,cambio atacante,,,
+2.0,2.0,129458,A,674.0,-1684.0,canasta de 2,4.0,28.0,27.0
+,,129743,,,,cambio atacante,,,
+2.0,2.0,130546,B,719.0,4042.0,intento fallado de 2,23.0,28.0,27.0
+,,130596,,,,clock_off,,,
+,,131891,,,,clock_on,,,
+2.0,2.0,132074,B,7657.0,247.0,intento fallado de 3,26.0,28.0,27.0
+,,132328,,,,cambio atacante,,,
+1.0,2.0,132821,B,,,personal 2tl,26.0,28.0,27.0
+1.0,2.0,133618,A,,,canasta de 1,0.0,29.0,27.0
+1.0,2.0,133618,A,,,canasta de 1,0.0,30.0,27.0
+,,134662,,,,reinicio despues de falta,,,
+1.0,2.0,135909,B,4536.0,-2335.0,canasta de 2,26.0,30.0,29.0
+,,136182,,,,cambio atacante,,,
+,,136876,,,,cambio atacante,,,
+1.0,2.0,136961,B,1010.0,1774.0,intento fallado de 2,32.0,30.0,29.0
+,,137230,,,,cambio atacante,,,
+0.0,2.0,137526,A,1010.0,-1796.0,canasta de 2,11.0,32.0,29.0
+0.0,2.0,137654,B,,,tiempo muerto,,32.0,29.0
+0.0,2.0,139797,A,,,entra a pista,5.0,32.0,29.0
+0.0,2.0,139797,B,,,sale a banquillo,23.0,32.0,29.0
+0.0,2.0,139797,A,,,sale a banquillo,6.0,32.0,29.0
+0.0,2.0,139797,B,,,entra a pista,30.0,32.0,29.0
+,,142816,,,,reinicio despues de timeout,,,
+,,143895,,,,cambio atacante,,,
+,,144205,,,,cambio atacante,,,
+0.0,2.0,144289,B,,-943.0,canasta de 2,28.0,32.0,31.0
+0.0,2.0,144729,A,,,tiempo muerto,,32.0,31.0
+0.0,2.0,146872,B,,,sale a banquillo,32.0,32.0,31.0
+0.0,2.0,146872,B,,,entra a pista,23.0,32.0,31.0
+,,149415,,,,reinicio despues de timeout,,,
+,,149652,,,,clock_off,,,
+,,150135,,,,clock_on,,,
+0.0,2.0,150309,A,7814.0,-472.0,intento fallado de 3,0.0,32.0,31.0
+,,150617,,,,fin periodo,,,
+10.0,3.0,180833,B,,,sale a banquillo,23.0,32.0,31.0
+10.0,3.0,180833,A,,,entra a pista,2.0,32.0,31.0
+10.0,3.0,180833,B,,,entra a pista,33.0,32.0,31.0
+10.0,3.0,180833,B,,,entra a pista,31.0,32.0,31.0
+10.0,3.0,180833,B,,,entra a pista,32.0,32.0,31.0
+10.0,3.0,180833,A,,,sale a banquillo,5.0,32.0,31.0
+10.0,3.0,180833,B,,,sale a banquillo,30.0,32.0,31.0
+10.0,3.0,180833,B,,,sale a banquillo,28.0,32.0,31.0
+,,182320,,,,inicio periodo,,,
+9.0,3.0,183523,A,,,personal,2.0,32.0,31.0
+,,183870,,,,reinicio despues de falta,,,
+9.0,3.0,184828,B,427.0,-2021.0,canasta de 2,25.0,32.0,33.0
+,,185041,,,,cambio atacante,,,
+9.0,3.0,185792,A,831.0,1729.0,canasta de 2,11.0,34.0,33.0
+,,186023,,,,cambio atacante,,,
+8.0,3.0,186788,B,1325.0,-3593.0,intento fallado de 2,26.0,34.0,33.0
+8.0,3.0,187137,B,5232.0,6265.0,intento fallado de 3,26.0,34.0,33.0
+,,187396,,,,clock_off,,,
+,,188399,,,,clock_on,,,
+8.0,3.0,188831,A,1841.0,90.0,canasta de 2,11.0,36.0,33.0
+,,189116,,,,cambio atacante,,,
+8.0,3.0,189429,B,6893.0,-2560.0,intento fallado de 3,33.0,36.0,33.0
+8.0,3.0,189927,A,,,personal,0.0,36.0,33.0
+,,190602,,,,reinicio despues de falta,,,
+7.0,3.0,191223,B,2784.0,225.0,intento fallado de 2,25.0,36.0,33.0
+,,191409,,,,cambio atacante,,,
+7.0,3.0,191671,B,,,personal 2tl,26.0,36.0,33.0
+7.0,3.0,194710,A,,,intento fallado de tiro libre,1.0,36.0,33.0
+7.0,3.0,194710,A,,,canasta de 1,1.0,37.0,33.0
+,,195961,,,,reinicio despues de falta,,,
+7.0,3.0,197152,A,,,personal 2tl,11.0,37.0,33.0
+7.0,3.0,197849,B,,,canasta de 1,26.0,37.0,34.0
+7.0,3.0,197849,B,,,intento fallado de tiro libre,26.0,37.0,34.0
+,,199056,,,,reinicio despues de falta,,,
+7.0,3.0,200041,A,337.0,2380.0,canasta de 2,4.0,39.0,34.0
+,,200336,,,,cambio atacante,,,
+6.0,3.0,200540,B,3121.0,6894.0,intento fallado de 3,31.0,39.0,34.0
+,,200790,,,,cambio atacante,,,
+6.0,3.0,200927,A,719.0,1819.0,intento fallado de 2,11.0,39.0,34.0
+,,200977,,,,clock_off,,,
+,,201726,,,,clock_on,,,
+6.0,3.0,201785,A,6310.0,4805.0,canasta de 3,0.0,42.0,34.0
+6.0,3.0,201935,B,,,tiempo muerto,,42.0,34.0
+,,206418,,,,reinicio despues de timeout,,,
+6.0,3.0,207166,B,2447.0,6849.0,intento fallado de 3,26.0,42.0,34.0
+,,207388,,,,cambio atacante,,,
+,,207671,,,,cambio atacante,,,
+6.0,3.0,207963,A,,,personal 2tl,2.0,42.0,34.0
+6.0,3.0,208910,A,,,sale a banquillo,2.0,42.0,34.0
+6.0,3.0,208910,A,,,entra a pista,5.0,42.0,34.0
+6.0,3.0,210554,B,,,canasta de 1,25.0,42.0,35.0
+6.0,3.0,210554,B,,,canasta de 1,25.0,42.0,36.0
+,,212143,,,,reinicio despues de falta,,,
+5.0,3.0,212863,A,,,mate,11.0,42.0,36.0
+,,213177,,,,cambio atacante,,,
+5.0,3.0,213684,B,7253.0,3525.0,intento fallado de 3,33.0,42.0,36.0
+5.0,3.0,213933,B,,,personal,25.0,42.0,36.0
+,,214183,,,,reinicio despues de falta,,,
+5.0,3.0,214481,B,,,sale a banquillo,31.0,42.0,36.0
+5.0,3.0,214481,B,,,entra a pista,28.0,42.0,36.0
+5.0,3.0,215378,A,,-2133.0,canasta de 2,11.0,44.0,36.0
+5.0,3.0,215976,B,1280.0,7275.0,intento fallado de 3,33.0,44.0,36.0
+,,216016,,,,cambio atacante,,,
+4.0,3.0,216524,A,696.0,-1909.0,canasta de 2,4.0,46.0,36.0
+,,216529,,,,cambio atacante,,,
+,,217178,,,,cambio atacante,,,
+4.0,3.0,217670,B,2088.0,988.0,intento fallado de 2,32.0,46.0,36.0
+4.0,3.0,218019,B,6377.0,-5344.0,canasta de 3,33.0,46.0,39.0
+,,218602,,,,cambio atacante,,,
+4.0,3.0,218617,B,,,personal,25.0,46.0,39.0
+4.0,3.0,218965,B,,,entra a pista,23.0,46.0,39.0
+4.0,3.0,218965,B,,,entra a pista,30.0,46.0,39.0
+4.0,3.0,218965,B,,,sale a banquillo,32.0,46.0,39.0
+4.0,3.0,218965,B,,,sale a banquillo,33.0,46.0,39.0
+4.0,3.0,219912,A,,,mate,11.0,46.0,39.0
+,,220094,,,,reinicio despues de falta,,,
+3.0,3.0,220809,B,6063.0,5412.0,intento fallado de 3,26.0,46.0,39.0
+3.0,3.0,221058,B,4940.0,5973.0,intento fallado de 3,28.0,46.0,39.0
+3.0,3.0,221452,A,5681.0,5344.0,canasta de 3,0.0,49.0,39.0
+,,221637,,,,cambio atacante,,,
+,,222188,,,,cambio atacante,,,
+3.0,3.0,222553,B,180.0,1055.0,canasta de 2,25.0,49.0,41.0
+3.0,3.0,222812,A,359.0,1213.0,canasta de 2,11.0,51.0,41.0
+,,223142,,,,cambio atacante,,,
+,,223697,,,,cambio atacante,,,
+,,223839,,,,clock_off,,,
+,,224613,,,,cambio atacante,,,
+,,224818,,,,cambio atacante,,,
+,,224839,,,,clock_on,,,
+2.0,3.0,226389,A,4356.0,-6400.0,intento fallado de 3,5.0,51.0,41.0
+,,226937,,,,cambio atacante,,,
+2.0,3.0,227386,A,112.0,1841.0,canasta de 2,4.0,53.0,41.0
+,,227737,,,,cambio atacante,,,
+2.0,3.0,227983,A,,,personal 2tl,5.0,53.0,41.0
+,,228233,,,,reinicio despues de falta,,,
+2.0,3.0,228581,B,,,sale a banquillo,25.0,53.0,41.0
+2.0,3.0,228581,B,,,entra a pista,27.0,53.0,41.0
+2.0,3.0,229129,B,,,canasta de 1,23.0,53.0,42.0
+2.0,3.0,229129,B,,,canasta de 1,23.0,53.0,43.0
+1.0,3.0,230724,A,,-2043.0,intento fallado de 2,4.0,53.0,43.0
+,,230731,,,,cambio atacante,,,
+1.0,3.0,231222,B,5389.0,-5793.0,intento fallado de 3,26.0,53.0,43.0
+,,231393,,,,cambio atacante,,,
+,,231816,,,,cambio atacante,,,
+1.0,3.0,232418,A,606.0,7118.0,canasta de 3,1.0,56.0,43.0
+1.0,3.0,233115,B,4042.0,-6467.0,canasta de 3,28.0,56.0,46.0
+,,233204,,,,cambio atacante,,,
+,,233811,,,,cambio atacante,,,
+0.0,3.0,234460,A,180.0,-1437.0,intento fallado de 2,1.0,56.0,46.0
+0.0,3.0,234759,A,,,personal 2tl,0.0,56.0,46.0
+0.0,3.0,235008,B,,,intento fallado de tiro libre,27.0,56.0,46.0
+0.0,3.0,235008,B,,,intento fallado de tiro libre,27.0,56.0,46.0
+,,235009,,,,reinicio despues de falta,,,
+0.0,3.0,237101,A,,-2223.0,intento fallado de 2,11.0,56.0,46.0
+,,237167,,,,cambio atacante,,,
+0.0,3.0,237799,A,314.0,-1864.0,canasta de 2,11.0,58.0,46.0
+,,238476,,,,cambio atacante,,,
+0.0,3.0,238780,B,5613.0,5591.0,intento fallado de 3,27.0,58.0,46.0
+,,238830,,,,clock_off,,,
+,,239360,,,,clock_on,,,
+,,239551,,,,fin periodo,,,
+,,246108,,,,inicio periodo,,,
+9.0,4.0,246468,B,,,personal 2tl,27.0,58.0,46.0
+,,246718,,,,reinicio despues de falta,,,
+9.0,4.0,246966,A,,,intento fallado de tiro libre,1.0,58.0,46.0
+9.0,4.0,246966,A,,,canasta de 1,1.0,59.0,46.0
+9.0,4.0,248959,B,382.0,-4042.0,canasta de 2,27.0,59.0,48.0
+,,249006,,,,cambio atacante,,,
+,,249619,,,,cambio atacante,,,
+9.0,4.0,250105,A,584.0,3975.0,intento fallado de 2,0.0,59.0,48.0
+8.0,4.0,250553,A,,,mate,11.0,59.0,48.0
+,,250685,,,,cambio atacante,,,
+,,251039,,,,cambio atacante,,,
+,,251265,,,,cambio atacante,,,
+8.0,4.0,251550,B,5928.0,-5344.0,intento fallado de 3,27.0,59.0,48.0
+,,252222,,,,cambio atacante,,,
+8.0,4.0,252546,B,,,personal,30.0,59.0,48.0
+8.0,4.0,254041,B,,,personal,23.0,59.0,48.0
+,,256088,,,,reinicio despues de falta,,,
+,,256088,,,,reinicio despues de falta,,,
+,,257624,,,,cambio atacante,,,
+,,257756,,,,cambio atacante,,,
+7.0,4.0,258375,A,6085.0,5726.0,intento fallado de 3,4.0,59.0,48.0
+7.0,4.0,258824,B,3009.0,6557.0,intento fallado de 3,27.0,59.0,48.0
+,,259051,,,,cambio atacante,,,
+6.0,4.0,259521,B,,,personal 2tl,30.0,59.0,48.0
+6.0,4.0,260867,B,,,tec. coach 1tl,,59.0,48.0
+6.0,4.0,261016,A,,,canasta de 1,4.0,60.0,48.0
+6.0,4.0,261564,A,,,intento fallado de tiro libre,11.0,60.0,48.0
+6.0,4.0,261564,A,,,canasta de 1,11.0,61.0,48.0
+,,263390,,,,reinicio despues de falta,,,
+,,263628,,,,clock_off,,,
+6.0,4.0,263657,B,,,sale a banquillo,23.0,61.0,48.0
+6.0,4.0,263657,B,,,entra a pista,33.0,61.0,48.0
+,,264795,,,,clock_on,,,
+6.0,4.0,264902,A,629.0,2223.0,intento fallado de 2,11.0,61.0,48.0
+6.0,4.0,265450,A,,,personal 2tl,1.0,61.0,48.0
+,,265700,,,,reinicio despues de falta,,,
+6.0,4.0,265949,B,,,intento fallado de tiro libre,26.0,61.0,48.0
+6.0,4.0,265949,B,,,canasta de 1,26.0,61.0,49.0
+,,267510,,,,cambio atacante,,,
+,,267683,,,,clock_off,,,
+6.0,4.0,268041,A,,,mate,1.0,61.0,49.0
+,,268182,,,,clock_on,,,
+6.0,4.0,268290,B,,,tiempo muerto,,61.0,49.0
+6.0,4.0,271329,B,,,sale a banquillo,30.0,61.0,49.0
+6.0,4.0,271329,B,,,sale a banquillo,27.0,61.0,49.0
+6.0,4.0,271329,B,,,entra a pista,22.0,61.0,49.0
+6.0,4.0,271329,B,,,entra a pista,25.0,61.0,49.0
+,,273316,,,,reinicio despues de timeout,,,
+5.0,4.0,273671,B,4648.0,-6490.0,intento fallado de 3,28.0,61.0,49.0
+5.0,4.0,274319,B,6220.0,6534.0,intento fallado de 3,26.0,61.0,49.0
+,,275058,,,,cambio atacante,,,
+5.0,4.0,276611,A,1549.0,1145.0,canasta de 2,11.0,63.0,49.0
+4.0,4.0,277109,A,,,personal,0.0,63.0,49.0
+,,277359,,,,reinicio despues de falta,,,
+4.0,4.0,277707,A,,,entra a pista,3.0,63.0,49.0
+4.0,4.0,277707,A,,,sale a banquillo,0.0,63.0,49.0
+,,279271,,,,clock_off,,,
+4.0,4.0,279849,B,,,personal 2tl,22.0,63.0,49.0
+,,280031,,,,clock_on,,,
+,,280099,,,,reinicio despues de falta,,,
+4.0,4.0,280397,A,,,canasta de 1,4.0,64.0,49.0
+4.0,4.0,280397,A,,,intento fallado de tiro libre,4.0,64.0,49.0
+4.0,4.0,282689,A,,,entra a pista,2.0,64.0,49.0
+4.0,4.0,282689,A,,,entra a pista,6.0,64.0,49.0
+4.0,4.0,282689,A,,,sale a banquillo,5.0,64.0,49.0
+4.0,4.0,282689,A,,,sale a banquillo,4.0,64.0,49.0
+4.0,4.0,284084,B,3952.0,-6737.0,intento fallado de 3,33.0,64.0,49.0
+,,284104,,,,cambio atacante,,,
+4.0,4.0,284682,A,,6781.0,intento fallado de 3,2.0,64.0,49.0
+4.0,4.0,284831,A,,-1572.0,canasta de 2,11.0,66.0,49.0
+,,284842,,,,cambio atacante,,,
+3.0,4.0,285376,B,,1909.0,canasta de 2,33.0,66.0,51.0
+,,285599,,,,cambio atacante,,,
+,,286296,,,,cambio atacante,,,
+3.0,4.0,286651,A,561.0,6984.0,intento fallado de 3,3.0,66.0,51.0
+,,287195,,,,cambio atacante,,,
+3.0,4.0,287298,A,,,entra a pista,8.0,66.0,51.0
+3.0,4.0,287298,A,,,sale a banquillo,1.0,66.0,51.0
+,,287305,,,,clock_off,,,
+,,288335,,,,clock_on,,,
+,,291064,,,,cambio atacante,,,
+,,291625,,,,cambio atacante,,,
+3.0,4.0,293028,B,,,tiempo muerto,,66.0,51.0
+3.0,4.0,298160,A,,,sale a banquillo,11.0,66.0,51.0
+3.0,4.0,298160,A,,,entra a pista,10.0,66.0,51.0
+3.0,4.0,298160,A,,,sale a banquillo,8.0,66.0,51.0
+3.0,4.0,298160,A,,,entra a pista,7.0,66.0,51.0
+3.0,4.0,299605,B,,,canasta de 1,28.0,66.0,52.0
+3.0,4.0,299605,B,,,canasta de 1,28.0,66.0,53.0
+3.0,4.0,300281,A,,2111.0,canasta de 2,10.0,68.0,53.0
+,,300331,,,,reinicio despues de timeout,,,
+,,301183,,,,cambio atacante,,,
+3.0,4.0,302020,A,,,personal 3tl,10.0,68.0,53.0
+3.0,4.0,302469,B,,,canasta de 1,33.0,68.0,54.0
+3.0,4.0,302469,B,,,canasta de 1,33.0,68.0,55.0
+3.0,4.0,302469,B,,,canasta de 1,33.0,68.0,56.0
+3.0,4.0,303665,A,,,sale a banquillo,10.0,68.0,56.0
+3.0,4.0,303665,A,,,entra a pista,8.0,68.0,56.0
+,,305012,,,,reinicio despues de falta,,,
+2.0,4.0,305259,B,4581.0,5883.0,intento fallado de 3,28.0,68.0,56.0
+,,305302,,,,cambio atacante,,,
+,,305467,,,,cambio atacante,,,
+2.0,4.0,305508,B,988.0,1684.0,canasta de 2,22.0,68.0,58.0
+2.0,4.0,305707,B,,,personal 2tl,26.0,68.0,58.0
+,,305957,,,,reinicio despues de falta,,,
+2.0,4.0,306654,A,,,intento fallado de tiro libre,2.0,68.0,58.0
+2.0,4.0,306654,A,,,canasta de 1,2.0,69.0,58.0
+,,306681,,,,cambio atacante,,,
+2.0,4.0,307897,B,763.0,-1841.0,canasta de 2,25.0,69.0,60.0
+2.0,4.0,307850,A,,,personal 1tl,7.0,69.0,60.0
+,,308100,,,,reinicio despues de falta,,,
+2.0,4.0,308547,B,,,canasta de 1,25.0,69.0,61.0
+2.0,4.0,309793,B,,,sale a banquillo,26.0,69.0,61.0
+2.0,4.0,309793,B,,,entra a pista,27.0,69.0,61.0
+,,309814,,,,cambio atacante,,,
+,,310092,,,,clock_off,,,
+2.0,4.0,310241,A,,,canasta de 1,6.0,70.0,61.0
+2.0,4.0,310241,A,,,intento fallado de tiro libre,6.0,70.0,61.0
+,,312096,,,,clock_on,,,
+,,312733,,,,cambio atacante,,,
+,,312932,,,,clock_off,,,
+,,313598,,,,clock_on,,,
+1.0,4.0,313779,B,5816.0,5704.0,intento fallado de 3,27.0,70.0,61.0
+,,313796,,,,cambio atacante,,,
+,,314673,,,,cambio atacante,,,
+1.0,4.0,314904,A,4850.0,-449.0,intento fallado de 2,7.0,70.0,61.0
+1.0,4.0,315323,A,651.0,-1347.0,intento fallado de 2,8.0,70.0,61.0
+1.0,4.0,315473,A,584.0,1594.0,canasta de 2,3.0,72.0,61.0
+0.0,4.0,316157,B,1504.0,763.0,canasta de 2,28.0,72.0,63.0
+,,316504,,,,cambio atacante,,,
+0.0,4.0,316718,B,,,personal 2tl,25.0,72.0,63.0
+,,316968,,,,reinicio despues de falta,,,
+0.0,4.0,317216,B,,,entra a pista,23.0,72.0,63.0
+0.0,4.0,317216,B,,,sale a banquillo,25.0,72.0,63.0
+,,317226,,,,cambio atacante,,,
+0.0,4.0,318711,A,,,canasta de 1,6.0,73.0,63.0
+0.0,4.0,318711,A,,,canasta de 1,6.0,74.0,63.0
+0.0,4.0,320405,B,1662.0,1460.0,intento fallado de 2,28.0,74.0,63.0
+,,320855,,,,cambio atacante,,,
+0.0,4.0,320903,A,4805.0,-5793.0,intento fallado de 3,7.0,74.0,63.0
+,,321228,,,,cambio atacante,,,
+,,321857,,,,cambio atacante,,,
+,,322376,,,,clock_off,,,
+,,323444,,,,cambio atacante,,,
+,,323612,,,,clock_on,,,
+0.0,4.0,323644,A,5591.0,-5434.0,intento fallado de 3,7.0,74.0,63.0
+,,324411,,,,fin periodo,,,
+,,324411,,,,fin partido,,,
+3.0,4.0,332412,A,,,personal 2tl,1.0,74.0,63.0
+2.0,4.0,350947,B,,,personal 2tl,25.0,74.0,63.0
+2.0,4.0,357922,B,,,personal,33.0,74.0,63.0
+0.0,,361409,A,,,entrenador loc presente,,74.0,63.0
+0.0,,361459,B,,,entrenador vis presente,,74.0,63.0
+0.0,,361659,,,,firma anotador,,74.0,63.0
+0.0,,361957,,,,firma cronometrador,,74.0,63.0
+0.0,,362107,,,,firma operador 24s,,74.0,63.0
+0.0,,362605,,,,firma árbitro,,74.0,63.0
+0.0,,365495,,,,firma árbitro principal,,74.0,63.0
