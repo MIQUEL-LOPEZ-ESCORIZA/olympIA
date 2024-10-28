@@ -1,2 +1,5 @@
 # olympIA
-OlympIA transforms basketball game footage and digital acta into an interactive experience, enabling users to explore plays based on diverse features like play outcomes and shot types.
+
+OlympIA is publicly available software that uses a basketball game’s digital acta and video file to create an interactive session. This session allows users to search and select specific plays based on a wide range of features, such as the play outcome, three-point attempts, or missed shots.
+
+Each script is thoroughly documented, providing clear instructions on how to use them. Additionally, various files with examples showcase the capabilities of OlympIA.
