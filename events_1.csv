@@ -1,0 +1,339 @@
+minute,second,period,timestamp,team,posX,posY,description,actor,A,B
+0,0,,0,A,,,firma entrenador,,0,0
+0,0,,0,B,,,firma entrenador,,0,0
+10,0,,0,,,,inicio de partido,,0,0
+10,0,1.0,0,,,,inicio periodo,,0,0
+9,59,1.0,0,B,2157.0,-1486.0,canasta de 2,30.0,0,2
+9,40,1.0,0,B,,,intento fallado de tiro libre,30.0,0,2
+9,40,1.0,0,B,2737.0,650.0,canasta de 2,31.0,0,4
+9,28,1.0,0,A,7725.0,-4180.0,canasta de 3,1.0,3,4
+8,54,1.0,0,B,2389.0,-1068.0,intento fallado de 2,27.0,3,4
+8,42,1.0,0,A,,,recuperación inicial,,3,4
+8,33,1.0,0,B,,,personal,27.0,3,4
+8,20,1.0,0,A,186.0,-3181.0,canasta de 2,4.0,5,4
+8,3,1.0,0,B,2413.0,1649.0,canasta de 2,25.0,5,6
+7,50,1.0,0,A,7029.0,3553.0,intento fallado de 3,11.0,5,6
+7,44,1.0,0,A,1717.0,3553.0,intento fallado de 2,0.0,5,6
+7,37,1.0,0,B,1160.0,1184.0,intento fallado de 2,27.0,5,6
+7,28,1.0,0,A,1693.0,-116.0,intento fallado de 2,4.0,5,6
+7,23,1.0,0,B,1763.0,-2833.0,canasta de 2,26.0,5,8
+7,4,1.0,0,A,1902.0,-3738.0,intento fallado de 2,4.0,5,8
+6,54,1.0,0,B,2227.0,-488.0,intento fallado de 2,25.0,5,8
+6,35,1.0,0,B,,,personal,25.0,5,8
+6,28,1.0,0,A,1531.0,-3506.0,intento fallado de 2,4.0,5,8
+6,15,1.0,0,B,1137.0,1997.0,intento fallado de 2,31.0,5,8
+5,48,1.0,0,B,3109.0,395.0,intento fallado de 2,30.0,5,8
+5,29,1.0,0,A,2134.0,-1811.0,intento fallado de 2,4.0,5,8
+5,17,1.0,0,A,,,personal,3.0,5,8
+5,14,1.0,0,B,,,sale a banquillo,27.0,5,8
+5,14,1.0,0,B,,,sale a banquillo,25.0,5,8
+5,14,1.0,0,A,,,sale a banquillo,4.0,5,8
+5,14,1.0,0,B,,,entra a pista,23.0,5,8
+5,14,1.0,0,A,,,entra a pista,9.0,5,8
+5,14,1.0,0,B,,,entra a pista,21.0,5,8
+5,3,1.0,0,B,673.0,673.0,canasta de 2,21.0,5,10
+4,45,1.0,0,B,3526.0,789.0,canasta de 2,21.0,5,12
+4,45,1.0,0,A,,,tiempo muerto,,5,12
+4,45,1.0,0,A,,,sale a banquillo,3.0,5,12
+4,45,1.0,0,A,,,sale a banquillo,0.0,5,12
+4,45,1.0,0,B,,,sale a banquillo,31.0,5,12
+4,45,1.0,0,A,,,entra a pista,8.0,5,12
+4,45,1.0,0,A,,,entra a pista,6.0,5,12
+4,45,1.0,0,B,,,entra a pista,24.0,5,12
+4,27,1.0,0,A,882.0,1741.0,intento fallado de 2,9.0,5,12
+4,21,1.0,0,B,,,personal,26.0,5,12
+4,13,1.0,0,A,6171.0,4226.0,intento fallado de 3,11.0,5,12
+3,53,1.0,0,B,1809.0,-3088.0,intento fallado de 2,30.0,5,12
+3,43,1.0,0,A,1879.0,-2508.0,canasta de 2,11.0,7,12
+3,25,1.0,0,B,2250.0,1254.0,intento fallado de 2,21.0,7,12
+2,58,1.0,0,A,1902.0,-2136.0,intento fallado de 2,6.0,7,12
+2,35,1.0,0,B,4408.0,-3065.0,canasta de 2,21.0,7,14
+2,29,1.0,0,B,3688.0,-975.0,intento fallado de 2,21.0,7,14
+2,12,1.0,0,B,,,personal,21.0,7,14
+2,12,1.0,0,A,,,entra a pista,10.0,7,14
+2,12,1.0,0,A,,,sale a banquillo,1.0,7,14
+2,12,1.0,0,B,,,sale a banquillo,30.0,7,14
+2,12,1.0,0,B,,,sale a banquillo,26.0,7,14
+2,12,1.0,0,B,,,entra a pista,29.0,7,14
+2,12,1.0,0,A,,,entra a pista,7.0,7,14
+2,12,1.0,0,B,,,entra a pista,28.0,7,14
+2,12,1.0,0,A,,,sale a banquillo,11.0,7,14
+1,59,1.0,0,A,1160.0,1950.0,intento fallado de 2,9.0,7,14
+1,46,1.0,0,A,,,personal,8.0,7,14
+1,21,1.0,0,A,325.0,-1231.0,canasta de 2,10.0,9,14
+1,2,1.0,0,B,1717.0,1068.0,canasta de 2,24.0,9,16
+0,53,1.0,0,A,6913.0,-3460.0,intento fallado de 3,7.0,9,16
+0,48,1.0,0,B,,,personal 2tl,29.0,9,16
+0,48,1.0,0,A,,,canasta de 1,9.0,10,16
+0,48,1.0,0,A,,,canasta de 1,9.0,11,16
+0,48,1.0,0,B,7377.0,-2020.0,intento fallado de 3,29.0,11,16
+0,48,1.0,0,A,5892.0,-5805.0,canasta de 3,7.0,14,16
+0,48,1.0,0,B,7563.0,-2368.0,canasta de 3,24.0,14,19
+0,48,1.0,0,A,14499.0,-3019.0,intento fallado de 3,7.0,14,19
+9,59,1.0,0,A,,,personal 1tl,4.0,14,19
+0,0,1.0,0,,,,fin de periodo,,14,19
+10,0,2.0,0,,,,inicio periodo,,14,19
+10,0,2.0,0,A,,,sale a banquillo,8.0,14,19
+10,0,2.0,0,B,,,sale a banquillo,29.0,14,19
+10,0,2.0,0,B,,,sale a banquillo,21.0,14,19
+10,0,2.0,0,B,,,sale a banquillo,28.0,14,19
+10,0,2.0,0,B,,,sale a banquillo,23.0,14,19
+10,0,2.0,0,A,,,entra a pista,4.0,14,19
+10,0,2.0,0,B,,,entra a pista,26.0,14,19
+10,0,2.0,0,B,,,entra a pista,30.0,14,19
+10,0,2.0,0,B,,,entra a pista,25.0,14,19
+10,0,2.0,0,B,,,entra a pista,27.0,14,19
+9,43,2.0,0,B,,,recuperación inicial,,14,19
+9,42,2.0,0,A,4918.0,5875.0,canasta de 3,10.0,17,19
+9,29,2.0,0,A,,,personal,4.0,17,19
+9,28,2.0,0,A,,,personal,7.0,17,19
+9,20,2.0,0,B,6426.0,-4598.0,intento fallado de 3,24.0,17,19
+9,12,2.0,0,B,5568.0,5248.0,intento fallado de 3,27.0,17,19
+9,12,2.0,0,A,5150.0,-279.0,canasta de 2,9.0,19,19
+9,12,2.0,0,B,2946.0,1950.0,canasta de 2,26.0,19,21
+8,58,2.0,0,A,,,sale a banquillo,4.0,19,21
+8,58,2.0,0,A,,,entra a pista,1.0,19,21
+8,17,2.0,0,A,3178.0,-3437.0,intento fallado de 2,1.0,19,21
+7,31,2.0,0,A,7934.0,-441.0,intento fallado de 3,7.0,19,21
+7,11,2.0,0,B,,,personal,25.0,19,21
+7,11,2.0,0,A,,,entra a pista,11.0,19,21
+7,11,2.0,0,A,,,sale a banquillo,7.0,19,21
+6,58,2.0,0,A,6333.0,5480.0,intento fallado de 3,9.0,19,21
+6,39,2.0,0,A,5568.0,1904.0,intento fallado de 2,9.0,19,21
+6,21,2.0,0,B,2157.0,-650.0,intento fallado de 2,30.0,19,21
+6,13,2.0,0,A,1949.0,2206.0,intento fallado de 2,11.0,19,21
+5,54,2.0,0,B,7586.0,3320.0,canasta de 3,27.0,19,24
+5,32,2.0,0,A,1693.0,1207.0,canasta de 2,11.0,21,24
+5,17,2.0,0,B,858.0,789.0,canasta de 2,26.0,21,26
+5,4,2.0,0,B,,,personal 2tl,30.0,21,26
+5,4,2.0,0,B,,,sale a banquillo,25.0,21,26
+5,4,2.0,0,A,,,sale a banquillo,10.0,21,26
+5,4,2.0,0,A,,,sale a banquillo,9.0,21,26
+5,4,2.0,0,B,,,entra a pista,20.0,21,26
+5,4,2.0,0,A,,,entra a pista,0.0,21,26
+5,4,2.0,0,A,,,entra a pista,3.0,21,26
+5,4,2.0,0,A,,,canasta de 1,1.0,22,26
+5,4,2.0,0,A,,,canasta de 1,1.0,23,26
+4,50,2.0,0,B,1972.0,-2183.0,canasta de 2,26.0,23,28
+4,32,2.0,0,A,1276.0,1184.0,canasta de 2,6.0,25,28
+4,19,2.0,0,A,,,personal 2tl,11.0,25,28
+4,19,2.0,0,B,,,sale a banquillo,24.0,25,28
+4,19,2.0,0,B,,,entra a pista,31.0,25,28
+4,19,2.0,0,B,,,canasta de 1,27.0,25,29
+4,19,2.0,0,B,,,canasta de 1,27.0,25,30
+4,3,2.0,0,A,1137.0,2090.0,canasta de 2,0.0,27,30
+3,42,2.0,0,B,3781.0,-6409.0,intento fallado de 3,26.0,27,30
+3,27,2.0,0,A,3967.0,-464.0,intento fallado de 2,3.0,27,30
+3,14,2.0,0,A,1717.0,627.0,canasta de 2,0.0,29,30
+3,13,2.0,0,B,,,tiempo muerto,,29,30
+3,13,2.0,0,A,,,sale a banquillo,6.0,29,30
+3,13,2.0,0,B,,,entra a pista,21.0,29,30
+3,13,2.0,0,B,,,sale a banquillo,27.0,29,30
+3,13,2.0,0,A,,,entra a pista,4.0,29,30
+2,46,2.0,0,A,1693.0,-2902.0,intento fallado de 2,4.0,29,30
+2,38,2.0,0,A,4152.0,-2183.0,canasta de 2,3.0,31,30
+2,24,2.0,0,B,1183.0,511.0,canasta de 2,21.0,31,32
+2,22,2.0,0,A,,,personal 1tl,3.0,31,32
+2,22,2.0,0,B,,,entra a pista,28.0,31,32
+2,22,2.0,0,B,,,sale a banquillo,20.0,31,32
+2,22,2.0,0,B,,,canasta de 1,21.0,31,33
+2,22,2.0,0,A,,,personal 2tl,11.0,31,33
+2,5,2.0,0,A,,,entra a pista,7.0,31,33
+2,5,2.0,0,A,,,sale a banquillo,11.0,31,33
+2,5,2.0,0,B,,,intento fallado de tiro libre,21.0,31,33
+2,5,2.0,0,B,,,canasta de 1,21.0,31,34
+1,36,2.0,0,B,4825.0,5108.0,intento fallado de 3,30.0,31,34
+1,22,2.0,0,B,,,personal,30.0,31,34
+1,22,2.0,0,A,,,entra a pista,10.0,31,34
+1,22,2.0,0,A,,,sale a banquillo,3.0,31,34
+1,8,2.0,0,B,,,entra a pista,24.0,31,34
+1,8,2.0,0,B,,,sale a banquillo,30.0,31,34
+0,49,2.0,0,B,1276.0,-975.0,canasta de 2,31.0,31,36
+0,44,2.0,0,A,,,tiempo muerto,,31,36
+0,44,2.0,0,A,,,sale a banquillo,0.0,31,36
+0,44,2.0,0,A,,,entra a pista,9.0,31,36
+0,23,2.0,0,B,,,personal,28.0,31,36
+0,23,2.0,0,A,2923.0,-1045.0,intento fallado de 2,9.0,31,36
+0,23,2.0,0,A,6983.0,-4505.0,intento fallado de 3,7.0,31,36
+0,0,2.0,0,,,,fin de periodo,,31,36
+10,0,3.0,0,,,,inicio periodo,,31,36
+10,0,3.0,0,A,,,sale a banquillo,7.0,31,36
+10,0,3.0,0,B,,,entra a pista,27.0,31,36
+10,0,3.0,0,A,,,entra a pista,6.0,31,36
+10,0,3.0,0,A,,,entra a pista,0.0,31,36
+10,0,3.0,0,A,,,sale a banquillo,4.0,31,36
+10,0,3.0,0,A,,,sale a banquillo,9.0,31,36
+10,0,3.0,0,B,,,entra a pista,30.0,31,36
+10,0,3.0,0,B,,,sale a banquillo,21.0,31,36
+10,0,3.0,0,B,,,sale a banquillo,28.0,31,36
+10,0,3.0,0,B,,,sale a banquillo,26.0,31,36
+10,0,3.0,0,B,,,sale a banquillo,31.0,31,36
+10,0,3.0,0,B,,,entra a pista,23.0,31,36
+10,0,3.0,0,B,,,entra a pista,25.0,31,36
+10,0,3.0,0,A,,,entra a pista,11.0,31,36
+9,59,3.0,0,A,,,recuperación inicial,,31,36
+9,48,3.0,0,B,3201.0,580.0,canasta de 2,24.0,31,38
+9,23,3.0,0,A,1554.0,-2624.0,intento fallado de 2,6.0,31,38
+8,56,3.0,0,B,2969.0,-3738.0,intento fallado de 2,30.0,31,38
+8,50,3.0,0,A,5614.0,-5805.0,intento fallado de 3,10.0,31,38
+8,25,3.0,0,B,951.0,1811.0,intento fallado de 2,30.0,31,38
+8,3,3.0,0,B,,,personal,27.0,31,38
+8,2,3.0,0,A,1577.0,-4412.0,intento fallado de 2,6.0,31,38
+7,10,3.0,0,A,5823.0,4667.0,intento fallado de 3,11.0,31,38
+7,1,3.0,0,B,6542.0,3692.0,canasta de 3,24.0,31,41
+6,47,3.0,0,A,,,sale a banquillo,6.0,31,41
+6,47,3.0,0,A,,,sale a banquillo,10.0,31,41
+6,47,3.0,0,A,,,sale a banquillo,0.0,31,41
+6,47,3.0,0,A,,,entra a pista,9.0,31,41
+6,47,3.0,0,A,,,entra a pista,4.0,31,41
+6,47,3.0,0,A,,,entra a pista,7.0,31,41
+6,40,3.0,0,A,3828.0,6618.0,intento fallado de 3,4.0,31,41
+6,23,3.0,0,B,1299.0,-2717.0,canasta de 2,24.0,31,43
+6,23,3.0,0,A,,,tiempo muerto,,31,43
+6,23,3.0,0,B,,,entra a pista,26.0,31,43
+6,23,3.0,0,B,,,sale a banquillo,25.0,31,43
+6,23,3.0,0,A,2969.0,557.0,canasta de 2,4.0,33,43
+6,23,3.0,0,B,7284.0,-5596.0,intento fallado de 3,26.0,33,43
+5,59,3.0,0,B,4338.0,-6618.0,intento fallado de 3,23.0,33,43
+5,42,3.0,0,B,,,personal 2tl,23.0,33,43
+5,42,3.0,0,A,,,sale a banquillo,11.0,33,43
+5,42,3.0,0,A,,,entra a pista,3.0,33,43
+5,7,3.0,0,A,,,intento fallado de tiro libre,1.0,33,43
+5,7,3.0,0,A,,,canasta de 1,1.0,34,43
+4,55,3.0,0,B,1137.0,-2693.0,canasta de 2,27.0,34,45
+4,36,3.0,0,A,2389.0,-279.0,canasta de 2,1.0,36,45
+4,15,3.0,0,B,1949.0,-1300.0,intento fallado de 2,27.0,36,45
+4,13,3.0,0,B,,,entra a pista,21.0,36,45
+4,13,3.0,0,B,,,entra a pista,31.0,36,45
+4,13,3.0,0,B,,,sale a banquillo,30.0,36,45
+4,13,3.0,0,B,,,sale a banquillo,27.0,36,45
+3,59,3.0,0,A,7261.0,1254.0,canasta de 3,7.0,39,45
+3,37,3.0,0,B,7029.0,-1904.0,intento fallado de 3,23.0,39,45
+3,31,3.0,0,B,,,entra a pista,28.0,39,45
+3,31,3.0,0,B,,,sale a banquillo,23.0,39,45
+3,18,3.0,0,A,,,personal 2tl,3.0,39,45
+3,18,3.0,0,B,,,intento fallado de tiro libre,26.0,39,45
+3,18,3.0,0,B,,,intento fallado de tiro libre,26.0,39,45
+3,18,3.0,0,B,998.0,3599.0,canasta de 2,28.0,39,47
+3,15,3.0,0,B,,,personal,26.0,39,47
+3,15,3.0,0,A,,,sale a banquillo,3.0,39,47
+3,15,3.0,0,A,,,entra a pista,10.0,39,47
+2,49,3.0,0,B,,,personal 2tl,31.0,39,47
+2,49,3.0,0,A,,,canasta de 1,4.0,40,47
+2,49,3.0,0,A,,,intento fallado de tiro libre,4.0,40,47
+2,49,3.0,0,A,,,personal 2tl,9.0,40,47
+2,49,3.0,0,B,,,intento fallado de tiro libre,24.0,40,47
+2,49,3.0,0,B,,,intento fallado de tiro libre,24.0,40,47
+2,49,3.0,0,B,8560.0,-557.0,intento fallado de 3,24.0,40,47
+2,44,3.0,0,A,5614.0,-5851.0,intento fallado de 3,7.0,40,47
+1,50,3.0,0,B,3225.0,2183.0,intento fallado de 2,24.0,40,47
+1,45,3.0,0,A,,,personal 2tl,10.0,40,47
+1,45,3.0,0,B,,,canasta de 1,26.0,40,48
+1,45,3.0,0,B,,,intento fallado de tiro libre,26.0,40,48
+1,45,3.0,0,B,,,personal 2tl,24.0,40,48
+1,45,3.0,0,A,,,canasta de 1,4.0,41,48
+1,45,3.0,0,A,,,intento fallado de tiro libre,4.0,41,48
+1,30,3.0,0,A,1612.0,2043.0,intento fallado de 2,4.0,41,48
+1,20,3.0,0,B,3712.0,882.0,intento fallado de 2,24.0,41,48
+1,4,3.0,0,B,1809.0,-3204.0,canasta de 2,31.0,41,50
+0,26,3.0,0,B,,,entra a pista,27.0,41,50
+0,26,3.0,0,A,,,entra a pista,6.0,41,50
+0,26,3.0,0,A,,,entra a pista,11.0,41,50
+0,26,3.0,0,A,,,sale a banquillo,9.0,41,50
+0,26,3.0,0,A,,,sale a banquillo,7.0,41,50
+0,26,3.0,0,B,,,sale a banquillo,31.0,41,50
+0,0,3.0,0,B,1995.0,2276.0,canasta de 2,28.0,41,52
+0,0,3.0,0,A,,,personal 1tl,6.0,41,52
+0,0,3.0,0,B,,,canasta de 1,28.0,41,53
+0,0,3.0,0,A,2297.0,-2601.0,canasta de 2,1.0,43,53
+0,0,3.0,0,B,3828.0,-6827.0,intento fallado de 3,26.0,43,53
+10,0,4.0,0,,,,inicio periodo,,43,53
+0,0,3.0,0,,,,fin de periodo,,43,53
+10,0,4.0,0,B,,,entra a pista,31.0,43,53
+10,0,4.0,0,B,,,sale a banquillo,21.0,43,53
+10,0,4.0,0,A,,,entra a pista,8.0,43,53
+10,0,4.0,0,A,,,sale a banquillo,1.0,43,53
+10,0,4.0,0,A,,,entra a pista,7.0,43,53
+10,0,4.0,0,A,,,sale a banquillo,6.0,43,53
+10,0,4.0,0,B,,,recuperación inicial,,43,53
+9,37,4.0,0,A,2041.0,2392.0,intento fallado de 2,4.0,43,53
+9,28,4.0,0,A,7029.0,3437.0,intento fallado de 3,7.0,43,53
+9,24,4.0,0,B,,,personal 2tl,24.0,43,53
+9,24,4.0,0,A,,,canasta de 1,8.0,44,53
+9,24,4.0,0,A,,,intento fallado de tiro libre,8.0,44,53
+8,56,4.0,0,B,6124.0,4667.0,canasta de 3,31.0,44,56
+8,16,4.0,0,A,5080.0,-6014.0,intento fallado de 3,7.0,44,56
+7,50,4.0,0,B,3016.0,-2485.0,intento fallado de 2,24.0,44,56
+7,47,4.0,0,A,,,entra a pista,6.0,44,56
+7,47,4.0,0,A,,,sale a banquillo,4.0,44,56
+7,47,4.0,0,A,,,entra a pista,1.0,44,56
+7,47,4.0,0,B,,,sale a banquillo,24.0,44,56
+7,47,4.0,0,B,,,entra a pista,30.0,44,56
+7,47,4.0,0,A,,,sale a banquillo,7.0,44,56
+7,47,4.0,0,A,2181.0,-813.0,canasta de 2,1.0,46,56
+7,34,4.0,0,B,,,personal,31.0,46,56
+7,34,4.0,0,B,,,entra a pista,21.0,46,56
+7,34,4.0,0,B,,,sale a banquillo,27.0,46,56
+6,51,4.0,0,A,2157.0,-116.0,canasta de 2,1.0,48,56
+6,48,4.0,0,B,,,personal 1tl,21.0,48,56
+6,48,4.0,0,A,,,intento fallado de tiro libre,1.0,48,56
+6,41,4.0,0,B,3248.0,-998.0,intento fallado de 2,21.0,48,56
+6,23,4.0,0,A,1276.0,-1858.0,canasta de 2,8.0,50,56
+6,4,4.0,0,B,1693.0,-2926.0,canasta de 2,28.0,50,58
+5,55,4.0,0,B,,,entra a pista,25.0,50,58
+5,55,4.0,0,B,,,sale a banquillo,28.0,50,58
+5,35,4.0,0,A,1229.0,395.0,canasta de 2,10.0,52,58
+5,18,4.0,0,B,2227.0,-3460.0,intento fallado de 2,30.0,52,58
+5,13,4.0,0,B,,,personal,21.0,52,58
+5,13,4.0,0,B,,,sale a banquillo,30.0,52,58
+5,13,4.0,0,A,,,sale a banquillo,11.0,52,58
+5,13,4.0,0,A,,,entra a pista,0.0,52,58
+5,13,4.0,0,B,,,entra a pista,24.0,52,58
+4,50,4.0,0,A,2575.0,1625.0,intento fallado de 2,8.0,52,58
+3,54,4.0,0,B,5196.0,-1741.0,intento fallado de 2,21.0,52,58
+3,44,4.0,0,B,,,sale a banquillo,21.0,52,58
+3,44,4.0,0,B,,,entra a pista,27.0,52,58
+3,44,4.0,0,A,,,sale a banquillo,6.0,52,58
+3,44,4.0,0,A,,,entra a pista,9.0,52,58
+3,44,4.0,0,A,,,sale a banquillo,10.0,52,58
+3,44,4.0,0,A,,,entra a pista,7.0,52,58
+3,35,4.0,0,A,,,personal,7.0,52,58
+3,26,4.0,0,B,2598.0,-441.0,intento fallado de 2,24.0,52,58
+3,26,4.0,0,A,,,tiempo muerto,,52,58
+3,26,4.0,0,A,,,entra a pista,4.0,52,58
+3,26,4.0,0,A,,,sale a banquillo,8.0,52,58
+3,26,4.0,0,A,,,sale a banquillo,1.0,52,58
+3,26,4.0,0,A,,,entra a pista,11.0,52,58
+3,26,4.0,0,A,5846.0,4876.0,intento fallado de 3,7.0,52,58
+2,56,4.0,0,B,1740.0,70.0,canasta de 2,31.0,52,60
+2,43,4.0,0,A,2297.0,-2113.0,canasta de 2,0.0,54,60
+1,59,4.0,0,A,,,personal,4.0,54,60
+1,59,4.0,0,A,,,entra a pista,1.0,54,60
+1,59,4.0,0,A,,,sale a banquillo,9.0,54,60
+1,51,4.0,0,A,,,personal 2tl,1.0,54,60
+1,51,4.0,0,B,,,canasta de 1,25.0,54,61
+1,51,4.0,0,B,,,canasta de 1,25.0,54,62
+1,32,4.0,0,B,,,personal 2tl,26.0,54,62
+1,32,4.0,0,A,,,sale a banquillo,7.0,54,62
+1,32,4.0,0,A,,,entra a pista,10.0,54,62
+1,32,4.0,0,A,,,intento fallado de tiro libre,0.0,54,62
+1,32,4.0,0,A,,,intento fallado de tiro libre,0.0,54,62
+1,18,4.0,0,B,1345.0,-255.0,intento fallado de 2,31.0,54,62
+1,8,4.0,0,B,1693.0,-4435.0,canasta de 2,31.0,54,64
+1,8,4.0,0,A,,,tiempo muerto,,54,64
+0,56,4.0,0,A,6310.0,-6502.0,intento fallado de 3,11.0,54,64
+0,0,4.0,0,B,1925.0,-1416.0,intento fallado de 2,27.0,54,64
+0,0,4.0,0,A,2645.0,2647.0,canasta de 2,10.0,56,64
+0,0,4.0,0,B,,,sale a banquillo,25.0,56,64
+0,0,4.0,0,B,,,entra a pista,21.0,56,64
+0,0,4.0,0,B,3920.0,4899.0,intento fallado de 2,26.0,56,64
+0,0,4.0,0,B,5011.0,5178.0,canasta de 3,24.0,56,67
+0,0,4.0,0,,,,fin de periodo,,56,67
+0,0,,0,,,,fin de partido,,56,67
+0,0,,0,A,,,entrenador loc presente,,56,67
+0,0,,0,B,,,entrenador vis presente,,56,67
+0,0,,0,,,,firma operador 24s,,56,67
+0,0,,0,,,,firma anotador,,56,67
+0,0,,0,,,,firma cronometrador,,56,67
+0,0,,0,,,,firma árbitro,,56,67
+0,0,,0,,,,firma árbitro principal,,56,67

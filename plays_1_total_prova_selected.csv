@@ -1,0 +1,4 @@
+,Unnamed: 0,play,final_event,team,actor,after_timeout,quarter,pointsA,pointsB,playersA,playersB,partial
+0,12,"[50276, 51643]",steal,B,-,False,1,0.0,0.0,"{0, 11, 5, 7}","{32, 33, 25, 26, 31}",0
+1,21,"[56960, 57412]",steal,B,-,False,1,0.0,3.0,"{0, 1, 2, 4, 11}","{32, 33, 25, 26, 31}",-3
+2,41,"[81583, 82086]",steal,B,-,False,1,9.0,10.0,"{0, 2, 3, 4, 11}","{32, 33, 24, 26, 27}",5
