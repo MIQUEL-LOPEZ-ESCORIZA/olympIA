@@ -18,6 +18,7 @@ When having this files, save them into the same directory as the project under t
 When having these files saved, execute acta_olympia.py script. This is going to concatanate the execution of several scripts until an interactive session with the user appears. At this moment the user can select the plays from the match that he/she needs to visualize based on several criteria options. 
 
 If you have different matches, save each match files with an integer subindex:{match}. 
+
 ---
 # Implementation
 
